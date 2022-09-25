@@ -1,0 +1,5 @@
+C:\Users\Oscar\source\repos\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.csproj.AssemblyReference.cache
+C:\Users\Oscar\source\repos\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar\source\repos\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.AssemblyInfoInputs.cache
+C:\Users\Oscar\source\repos\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.AssemblyInfo.cs
+C:\Users\Oscar\source\repos\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.csproj.CoreCompileInputs.cache
